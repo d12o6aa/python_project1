@@ -1,0 +1,2 @@
+the freelancer id : 111 the job id : 12 the skill of freelancer :d-s-c-v
+the freelancer id : 1212 the job id : 1212 the skill of freelancer :['d', 's', 'c', 'f']
